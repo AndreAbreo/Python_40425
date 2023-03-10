@@ -1,0 +1,9 @@
+setup.py
+Andre_40425.egg-info/PKG-INFO
+Andre_40425.egg-info/SOURCES.txt
+Andre_40425.egg-info/dependency_links.txt
+Andre_40425.egg-info/top_level.txt
+entrega1/__init__.py
+entrega1/registro_user.py
+entrega2/__init__.py
+entrega2/cliente.py
